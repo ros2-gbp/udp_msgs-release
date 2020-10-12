@@ -1,3 +1,26 @@
+## udp_msgs (dashing) - 0.0.1-2
+
+The packages in the `udp_msgs` repository were released into the `dashing` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro dashing --override-release-repository-push-url https://github.com/flynneva/udp_msgs-release.git udp_msgs` on `Mon, 12 Oct 2020 18:46:24 -0000`
+
+The `udp_msgs` package was released.
+
+Version of package(s) in repository `udp_msgs`:
+
+- upstream repository: https://github.com/flynneva/udp_msgs.git
+- release repository: https://github.com/flynneva/udp_msgs-release.git
+- rosdistro version: `0.0.1-1`
+- old version: `0.0.1-1`
+- new version: `0.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## udp_msgs (eloquent) - 0.0.1-1
 
 The packages in the `udp_msgs` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --rosdistro eloquent --track eloquent udp_msgs --edit` on `Wed, 07 Oct 2020 19:57:13 -0000`
