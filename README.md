@@ -1,3 +1,26 @@
+## udp_msgs (rolling) - 0.0.3-2
+
+The packages in the `udp_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling udp_msgs` on `Sat, 27 Mar 2021 03:25:29 -0000`
+
+The `udp_msgs` package was released.
+
+Version of package(s) in repository `udp_msgs`:
+
+- upstream repository: https://github.com/flynneva/udp_msgs.git
+- release repository: https://github.com/flynneva/udp_msgs-release.git
+- rosdistro version: `0.0.3-1`
+- old version: `0.0.3-1`
+- new version: `0.0.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## udp_msgs (rolling) - 0.0.3-1
 
 The packages in the `udp_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro rolling --override-release-repository-push-url https://github.com/flynneva/udp_msgs-release.git udp_msgs` on `Tue, 09 Mar 2021 16:42:54 -0000`
