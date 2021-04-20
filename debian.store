@@ -1,1 +1,1 @@
-{"base": "04476d1", "parent": "debian/rolling/udp_msgs", "previous": "5efb10a", "trim": "", "trimbase": ""}
+{"base": "6dcd453", "parent": "debian/galactic/udp_msgs", "previous": "abfe0e0", "trim": "", "trimbase": ""}
