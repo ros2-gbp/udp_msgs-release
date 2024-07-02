@@ -176,7 +176,7 @@ tracks:
     name: upstream
     patches: null
     release_inc: '7'
-    release_repo_url: null
+    release_repo_url: git@github.com:ros2-gbp/udp_msgs-release.git
     release_tag: :{version}
     ros_distro: jazzy
     vcs_type: git
